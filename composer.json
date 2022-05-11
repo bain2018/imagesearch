@@ -1,6 +1,6 @@
 {
-  "name": "alibabacloud/imagesearch-20210501",
-  "description": "Alibaba Cloud image search (20210501) SDK Library for PHP",
+  "name": "bain2018/imagesearch",
+  "description": "Alibaba Cloud image search (20210501) SDK Library for PHP  Suit for PHP8",
   "type": "library",
   "license": "Apache-2.0",
   "authors": [
@@ -10,12 +10,12 @@
     }
   ],
   "require": {
-    "php": ">5.5",
+    "php": ">=8.0",
     "alibabacloud/tea-utils": "^0.2.0",
     "alibabacloud/tea-oss-sdk": "^0.3.0",
     "alibabacloud/tea-rpc": "^0.1.5",
     "alibabacloud/openplatform-20191219": "^1.0.3",
-    "alibabacloud/tea-oss-utils": "^0.2.0",
+    "bain2018/tea-oss-utils": "^1.0.0",
     "alibabacloud/tea-fileform": "^0.3.0",
     "alibabacloud/darabonba-openapi": "^0.2.0",
     "alibabacloud/openapi-util": "^0.1.9",
